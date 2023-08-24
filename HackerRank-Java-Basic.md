@@ -1,6 +1,6 @@
 # HackerRank-Java-Basic
 HackerRank Java Basic Certification Test Solution
-- <a href="The Adder Class">The Adder Class</a>
+- <a href="the-adder-class">The Adder Class</a>
 - <a href="Multi Sum">Multi Sum<a/>
 
 ## The Adder Class
